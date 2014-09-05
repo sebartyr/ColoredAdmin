@@ -1,0 +1,13 @@
+name: ColoredAdmin
+main: seb95b.ColoredAdmin.ColoredAdmin
+author: seb95b
+version: beta 2.1
+commands:
+  ca:
+    description: Command of ColoredAdmin plugin
+    usage: /<command> help
+permissions:
+    coloredadmin.admin:
+        description: Commands admin
+        default: op
+    

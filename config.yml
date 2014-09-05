@@ -1,0 +1,8 @@
+#You have to use usual bukkit color.
+#BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE (useless :D)
+#You can also use :
+#MAGIC, BOLD, STRIKETHROUGH, UNDERLINE, ITALIC  
+
+config:
+    admin: DARK_RED
+    modo: RED
